@@ -19,7 +19,3 @@ This project runs on pure Python with no external dependencies and is designed t
 ## 🛠️ Technologies Used
 
 * Python (utilizing lists, dictionaries, and loops)
-
-## 📄 License
-
-This project is free to use for learning and educational purposes.
